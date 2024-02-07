@@ -1,0 +1,24 @@
+body{
+    margin:0px;
+    background: url(wallpaperflare.com_wallpaper.jpg);
+}
+
+h1{
+    position: absolute;
+    margin-left:620px;
+
+
+    color:white;
+    font-family:'Trebuchet MS';
+    text-shadow:black 2px 3px 4px;
+}
+
+img{
+    position:absolute;
+    display:flex;
+    margin:120px 530px;
+    padding-bottom:0;
+    
+    width:600px;
+    border-radius: 100%;
+}

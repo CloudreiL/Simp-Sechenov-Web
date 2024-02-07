@@ -1,0 +1,53 @@
+body{
+    margin:0px;
+    background: url(wallpaperflare.com_wallpaper.jpg);
+}
+
+h1{
+    text-align: center;
+    margin-top:20px;
+    color:white;
+    font-family:'Trebuchet MS';
+    text-align:center;
+    text-shadow:black 2px 3px 4px;
+}
+
+img{
+    display:block;
+    width:750px;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top:20px;
+
+    border-radius:10%;
+}
+
+a{
+    color:grey;
+    font-family:'Trebuchet MS';
+    font-size: 20;
+    text-decoration: none;
+}
+
+button{
+    display:block;
+    width:150px;
+    height: 50px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+
+    border-radius: 5%;
+    border:none;
+    background-color: white;
+}
+
+button:hover{
+    background-color: grey;
+    transition: 0.5s;
+}
+
+a:hover{
+    color:white;
+    transition: 0.5s;
+}
